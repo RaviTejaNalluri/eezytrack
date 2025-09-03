@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/EezyTrack.api.props" />
+</Project>

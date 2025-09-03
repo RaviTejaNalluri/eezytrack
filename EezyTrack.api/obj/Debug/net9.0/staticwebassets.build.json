@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DKqq33j9E1eLzJt5y4mU1awXhAUMuNy4rOESbkOM9Y4=",
+  "Source": "EezyTrack.api",
+  "BasePath": "_content/EezyTrack.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
