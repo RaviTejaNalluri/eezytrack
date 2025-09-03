@@ -140,7 +140,7 @@ EezyTrack.api/
 
 Add a migration
 ```bash
-cd /Users/raviteja/Desktop/Test/eezytrack/EezyTrack.api
+cd /Path/Test/eezytrack/EezyTrack.api
 dotnet ef migrations add <Name>
 ```
 
